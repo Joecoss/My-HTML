@@ -124,7 +124,6 @@ var config = {
      * 建议您放置数量 <= 5
      */
     icon: [
-        ["./svg/LeetCode.svg", "https://leetcode.cn/u/nice-lumieremw5/", "我的力扣主页"],
         ["./svg/github.svg", "https://github.com/Joecoss", "我的GitHub主页"],
     ],
 
