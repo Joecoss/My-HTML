@@ -75,6 +75,7 @@ var config = {
      */
     portfolio: [
         ["./images/pro-1.png", "https://github.com/Joecoss/Lane-detection", "基于深度学习的车道线检测系统", "这是采用Python编写的毕业设计<br>"],
+        ["./images/pro-2.png", "https://blog.csdn.net/m0_56379544/article/details/129150570", "第一个Scratch图形化编程", "通过自学制作的贪吃蛇小游戏<br>"],
     ],
 
 
