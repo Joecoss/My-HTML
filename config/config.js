@@ -126,6 +126,7 @@ var config = {
      */
     icon: [
         ["./svg/github.svg", "https://github.com/Joecoss", "我的GitHub主页"],
+        ["./svg/csdn.svg", "https://blog.csdn.net/m0_56379544?type=blog", "我的CSDN主页"],
     ],
 
 
